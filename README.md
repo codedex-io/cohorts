@@ -1,4 +1,4 @@
-# python-workshop
+# Introduction to Python Workshop
 
 Week 1:
 
